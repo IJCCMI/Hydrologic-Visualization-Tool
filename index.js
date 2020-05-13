@@ -2,7 +2,7 @@
 // index.js - main javascript for index map
 //===========================================================
 /* globals main, L, util, data */ // for jshint
-
+Test
 // create module object
 if(!window.main) window.main = {};
 
